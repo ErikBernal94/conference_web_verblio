@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: Oswald;
+    src: url(https://fonts.google.com/specimen/Oswald);
+  }
+
+body {
+    background-color: #FFFFFF;
+    font-family: Oswald;
+}
+.navbar{
+    background-color: #0b5bfb;
+}
